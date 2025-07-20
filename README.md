@@ -297,14 +297,14 @@ There are plenty of developer tools that enable us to issue HTTP requests to ser
 
 
 <center>
+![seperation](https://github.com/user-attachments/assets/6b3a622b-3f38-443c-9ba4-91af2b847912)
 
-![](https://media.git.generalassemb.ly/user/15881/files/c8fa3780-92ec-11ea-8b7c-8bf723456c19)
+<img width="871" height="423" alt="mvc" src="https://github.com/user-attachments/assets/0aa4a63f-ecc8-4872-83cb-28da34501cf5" />
 
-![](https://media.git.generalassemb.ly/user/15881/files/c2cf4100-2e61-11eb-913c-d8b656fd9709)
+![mvcmeme](https://github.com/user-attachments/assets/62b80a79-f865-4cd2-b8f6-63e919a03ade)
 
-![mvc-meme](https://media.git.generalassemb.ly/user/15881/files/24990200-9460-11ea-8f91-a81163b612d5)
 
-![rest](https://liberty-sfs.sfs-flex.com/images/rest.png)
+![rest](https://liberty.sfs-flex.com/images/rest.png)
 
 </center>
 
