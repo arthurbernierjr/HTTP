@@ -297,6 +297,7 @@ There are plenty of developer tools that enable us to issue HTTP requests to ser
 
 
 <center>
+	
 ![seperation](https://github.com/user-attachments/assets/6b3a622b-3f38-443c-9ba4-91af2b847912)
 
 <img width="871" height="423" alt="mvc" src="https://github.com/user-attachments/assets/0aa4a63f-ecc8-4872-83cb-28da34501cf5" />
