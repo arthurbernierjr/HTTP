@@ -294,3 +294,40 @@ There are plenty of developer tools that enable us to issue HTTP requests to ser
 - If you prefer to use a command-line tool, most operating systems already have a tool called [cURL](https://en.wikipedia.org/wiki/CURL). If your computer doesn't have cURL installed, you may choose to install it. To learn more about cURL feel free to review this [cURL documentation](https://curl.se/docs/) as well as their [free PDF](https://everything.curl.dev/) that teaches you everything you'd want to know about cURL. Becoming a master of cURL is not a requirement to work in software engineering or mandated by this class, however, its presence is ubiquitous in the software engineering space and you will most likely encounter cURL in many online tutorials and during your career.
 
 - A server with access to a network that supports http communication. We'll be using our node.js servers as http clients in this class when we cover the axios library.
+
+
+<center>
+
+![](https://media.git.generalassemb.ly/user/15881/files/c8fa3780-92ec-11ea-8b7c-8bf723456c19)
+
+![](https://media.git.generalassemb.ly/user/15881/files/c2cf4100-2e61-11eb-913c-d8b656fd9709)
+
+![mvc-meme](https://media.git.generalassemb.ly/user/15881/files/24990200-9460-11ea-8f91-a81163b612d5)
+
+![rest](https://liberty-sfs.sfs-flex.com/images/rest.png)
+
+</center>
+
+1. **CRUD**: CRUD stands for Create, Read, Update, Delete. It's a way of remembering the four basic functions that you need for working with any data in a system. Think of CRUD like a to-do list. You can create a new task, read the tasks you already have, update a task you've already created, and delete a task you no longer need.
+
+2. **REST**: Representational State Transfer, or REST, is an architectural style for creating web services. A RESTful API uses HTTP requests to GET, PUT, POST, and DELETE data. It's like a menu at a restaurant. Each endpoint (or "dish") represents a specific resource that can be accessed and manipulated using standard HTTP methods.
+
+3. **MVC**: MVC stands for Model-View-Controller. It's an architectural pattern used in software development. The model represents the data, the view is the user interface, and the controller handles the logic and communication between the model and the view. MVC is like a chef in a kitchen. The chef separates the different aspects of preparing a meal (the model, the view, and the controller) and assigns specific tasks to each aspect.
+
+4. **Server-side Rendering (SSR)**: Server-side rendering is when your webpage is built on the server each time someone makes a request for a page. This is how many traditional webpages work. It's like a chef preparing a dish in the kitchen before bringing it out to the customers.
+
+5. **Client-side Rendering (CSR)**: Client-side rendering is when the webpage is created in the browser using JavaScript. The server sends a response with an HTML file that's practically empty and then JavaScript kicks in to load the content. It's like a customer at a habachi restaurant ordering a dish and then being able to see the food prepared in front of them.
+
+6. **Consuming an API**: Consuming an API is like ordering food at a restaurant. You make a request to an API to retrieve or manipulate data. The API then sends back the appropriate response, just like a server bringing your dish to the table.
+
+7. **Separation of Concerns**: Separation of concerns is about keeping different parts of your code separate so that they each do one thing. It's like a chef having different stations in the kitchen. Each station is responsible for a specific task.
+
+8. **Component-Driven Development**: Component-driven development is a method in which the application is built from individual, reusable components. Each component has its own logic and controls its own rendering. It's like building with LEGOs. Each LEGO piece represents a component, and you can use different components to build different things.
+
+9. **Client-Server Model**: The client-server model is a communication structure that separates tasks or workloads between providers (servers) and service requesters, called clients. It's similar to a game of chess where the client, like the player, makes requests and the server, like the opponent, receives requests and responds.
+
+10. **IP Address**: An IP address is a unique string of numbers separated by periods that identifies each computer using the Internet Protocol to communicate over a network. It's like the street address for your computer on the vast internet neighborhood.
+
+11. **Port**: A port on a computer is like a doorway. It provides access to specific services or applications running on the device. Each port corresponds to a specific function and directs different types of internet traffic to the appropriate service or application.
+
+12. **DNS**: DNS stands for Domain Name System. It's like the phone book of the internet. Instead of remembering IP addresses, DNS servers give us human-friendly names like 'google.com'. 
